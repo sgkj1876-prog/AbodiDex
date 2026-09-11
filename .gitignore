@@ -1,0 +1,22 @@
+.gradle/
+.idea/
+local.properties
+build/
+app/build/
+*.iml
+
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+local.properties
+
+# Duplicate nested project
+abodi_dex/
+
+# Build logs
+*-error.log
+error.log
+kotlin-error.log
+build-error.txt
